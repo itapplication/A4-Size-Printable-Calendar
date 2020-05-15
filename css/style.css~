@@ -155,7 +155,7 @@ li.cld-day:nth-child(7n+1){
         }
         div#calendar-data {
             position: absolute;
-            right: 20px; 
+            float: right; 
         }
         div#calendar-data img {
             max-height: 20px;

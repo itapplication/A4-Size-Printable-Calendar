@@ -23,7 +23,7 @@ var events = [
   {'Date': new Date(2020, 2, 25), 'Title': 'Gudhi Padava'},
   
   {'Date': new Date(2020, 3, 2), 'Title': 'Hema Birthday'},
-  {'Date': new Date(2020, 3, 14), 'Title': 'End of Lockdown<br> Aambedkar Jayanti<br>Gov. Holiday'},
+  {'Date': new Date(2020, 3, 14), 'Title': 'End of Lockdown<br> Aambedkar Jayanti Holiday'},
   {'Date': new Date(2020, 3, 17), 'Title': 'WIRELESS AND MOBILE NETWORKS - 2 PM to 5 PM', 'Link': 'https://online.msbte.co.in/msbte19/reportsindex.php?act=time_table_s&sub=print_tt'},
   {'Date': new Date(2020, 3, 21), 'Title': 'MOBILE APPLICATION DEVELOPMENT - 2 PM to 5 PM', 'Link': 'https://online.msbte.co.in/msbte19/reportsindex.php?act=time_table_s&sub=print_tt'},
   {'Date': new Date(2020, 3, 29), 'Title': 'CLOUD COMPUTING - 2 PM to 5 PM', 'Link': 'https://online.msbte.co.in/msbte19/reportsindex.php?act=time_table_s&sub=print_tt'},
